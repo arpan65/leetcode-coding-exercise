@@ -19,3 +19,7 @@ Solving leetcode problems in python
 
 ### day-5
 1. Find First and Last Position of Element in Sorted Array
+
+### day-6
+1. Letter Combinations of a Phone Number¶
+2. Search is rotated sorted array
