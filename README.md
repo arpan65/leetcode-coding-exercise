@@ -23,3 +23,6 @@ Solving leetcode problems in python
 ### day-6
 1. Letter Combinations of a Phone Number¶
 2. Search is rotated sorted array
+
+### day-7
+1. 3Sum Closest
