@@ -28,4 +28,7 @@ Solving leetcode problems in python
 1. 3Sum Closest
 
 ### day-8
-1. fourSum. kSum
+1. fourSum, kSum
+
+### day-9
+1. Combination Sum
