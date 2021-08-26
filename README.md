@@ -32,3 +32,7 @@ Solving leetcode problems in python
 
 ### day-9
 1. Combination Sum
+
+### day-10
+1. Combination Sum II
+2. Next Greater Element II
