@@ -40,3 +40,6 @@ Solving leetcode problems in python
 #### day-11
 1. Permutations
 2. Permutations II
+
+#### day-12
+1. Image Rotation
