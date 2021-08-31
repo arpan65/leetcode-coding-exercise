@@ -43,3 +43,6 @@ Solving leetcode problems in python
 
 #### day-12
 1. Image Rotation
+
+#### day-13
+1. Valid Sudoku
