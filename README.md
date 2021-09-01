@@ -46,3 +46,6 @@ Solving leetcode problems in python
 
 #### day-13
 1. Valid Sudoku
+
+#### day-14
+1. Longest Substring Without Repeating Characters
