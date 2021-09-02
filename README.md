@@ -49,3 +49,7 @@ Solving leetcode problems in python
 
 #### day-14
 1. Longest Substring Without Repeating Characters
+
+#### day-15
+1. Median of Two Sorted Arrays
+2. Longest palindromic Substring
