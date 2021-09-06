@@ -56,3 +56,7 @@ Solving leetcode problems in python
 
 #### day-16
 1. First Missing Positive
+
+#### day-17
+1. Contains Duplicate
+2. Best Time to Buy and Sell Stock
