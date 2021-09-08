@@ -60,3 +60,6 @@ Solving leetcode problems in python
 #### day-17
 1. Contains Duplicate
 2. Best Time to Buy and Sell Stock
+
+### day-18
+1. Find Minimum in Rotated Sorted Array
