@@ -63,3 +63,9 @@ Solving leetcode problems in python
 
 #### day-18
 1. Find Minimum in Rotated Sorted Array
+
+#### day-19
+1. Maximum Subarray
+2. Single Number
+3. Majority Element
+4. 3Sum (three pointer & generalized kSum approach)
