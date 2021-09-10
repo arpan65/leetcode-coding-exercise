@@ -69,3 +69,7 @@ Solving leetcode problems in python
 2. Single Number
 3. Majority Element
 4. 3Sum (three pointer & generalized kSum approach)
+
+#### day-20
+1. Missing Number
+2. Find All Numbers Disappeared in an Array
