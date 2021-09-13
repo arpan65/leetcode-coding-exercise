@@ -73,3 +73,6 @@ Solving leetcode problems in python
 #### day-20
 1. Missing Number
 2. Find All Numbers Disappeared in an Array
+
+#### day-21
+1. Climbing Stairs
