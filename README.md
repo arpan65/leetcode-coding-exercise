@@ -76,3 +76,6 @@ Solving leetcode problems in python
 
 #### day-21
 1. Climbing Stairs
+
+#### day-22
+1. Counting Bits
