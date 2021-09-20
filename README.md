@@ -82,3 +82,6 @@ Solving leetcode problems in python
 
 #### day-23
 1. Target Sum
+
+#### day-24
+1. House Robber
