@@ -94,3 +94,6 @@ Solving leetcode problems in python
 
 #### day-27
 1. Maximum Product Subarray
+
+#### day-28
+1. Longest Increasing Subsequence
