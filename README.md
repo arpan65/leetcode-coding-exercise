@@ -97,3 +97,7 @@ Solving leetcode problems in python
 
 #### day-28
 1. Longest Increasing Subsequence
+
+#### day-29
+1. Word Break
+2. Combination Sum IV
