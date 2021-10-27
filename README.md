@@ -101,3 +101,6 @@ Solving leetcode problems in python
 #### day-29
 1. Word Break
 2. Combination Sum IV
+
+#### day-30
+1. Average of Levels in Binary Tree
