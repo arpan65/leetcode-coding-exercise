@@ -104,3 +104,6 @@ Solving leetcode problems in python
 
 #### day-30
 1. Average of Levels in Binary Tree
+
+#### day-31
+1. Minimum Depth of Binary Tree
