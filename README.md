@@ -113,3 +113,6 @@ Solving leetcode problems in python
 
 #### day-33
 1. Number of Islands
+
+#### day-34
+1. Course Schedule
