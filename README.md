@@ -116,3 +116,7 @@ Solving leetcode problems in python
 
 #### day-34
 1. Course Schedule
+
+#### day-35
+1. Same Tree
+2. Path Sum
