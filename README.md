@@ -120,3 +120,7 @@ Solving leetcode problems in python
 #### day-35
 1. Same Tree
 2. Path Sum
+
+#### day-36
+1. Maximum depth of Binary tree
+2. Lowest Common Ancestor of a Binary Search Tree
