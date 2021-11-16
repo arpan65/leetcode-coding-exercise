@@ -124,3 +124,6 @@ Solving leetcode problems in python
 #### day-36
 1. Maximum depth of Binary tree
 2. Lowest Common Ancestor of a Binary Search Tree
+
+#### day-37
+1. Kth Smallest Element in a BST
