@@ -127,3 +127,6 @@ Solving leetcode problems in python
 
 #### day-37
 1. Kth Smallest Element in a BST
+
+#### day-38
+1. Course Schedule II
