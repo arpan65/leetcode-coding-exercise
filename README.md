@@ -130,3 +130,7 @@ Solving leetcode problems in python
 
 #### day-38
 1. Course Schedule II
+
+#### day-36
+1. Binary tree right side view
+2. All Nodes Distance K in Binary Tree
