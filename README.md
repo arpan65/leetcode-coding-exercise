@@ -140,3 +140,6 @@ Solving leetcode problems in python
 
 #### day-41
 1. firstBadVersion
+
+#### day-42
+1. Lowest Common Ancestor of a Binary Tree
