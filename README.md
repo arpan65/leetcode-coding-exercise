@@ -137,3 +137,6 @@ Solving leetcode problems in python
 
 #### day-40
 1. Path Sum II
+
+#### day-41
+1. firstBadVersion
