@@ -146,3 +146,6 @@ Solving leetcode problems in python
 
 #### day-43
 1. Maximum Binary Tree
+
+#### day-44
+1. Maximum Width of Binary Tree
