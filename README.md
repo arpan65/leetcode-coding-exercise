@@ -143,3 +143,6 @@ Solving leetcode problems in python
 
 #### day-42
 1. Lowest Common Ancestor of a Binary Tree
+
+#### day-43
+1. Maximum Binary Tree
