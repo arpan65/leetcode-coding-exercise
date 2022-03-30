@@ -161,3 +161,13 @@ Solving leetcode problems in python
 
 #### day-48
 1. Search Insert Position
+
+#### day-49
+1. Move Zeroes
+2. Two Sum II - Input Array Is Sorted
+
+#### day-50
+1. Reverse Words in a String III
+2. Middle of the Linked List
+3. Given the head of a linked list, remove the nth node from the end of the list and return its head
+4. Longest Substring Without Repeating Characters
