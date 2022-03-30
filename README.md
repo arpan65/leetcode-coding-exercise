@@ -149,3 +149,6 @@ Solving leetcode problems in python
 
 #### day-44
 1. Maximum Width of Binary Tree
+
+#### day-45
+1. Construct Binary Tree from Preorder and Inorder Traversal
