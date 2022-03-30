@@ -155,3 +155,9 @@ Solving leetcode problems in python
 
 #### day-46
 1. Longest Consecutive Sequence
+
+#### day--47
+1. Permutation in String
+
+#### day-48
+1. Search Insert Position
