@@ -152,3 +152,6 @@ Solving leetcode problems in python
 
 #### day-45
 1. Construct Binary Tree from Preorder and Inorder Traversal
+
+#### day-46
+1. Longest Consecutive Sequence
