@@ -171,3 +171,7 @@ Solving leetcode problems in python
 2. Middle of the Linked List
 3. Given the head of a linked list, remove the nth node from the end of the list and return its head
 4. Longest Substring Without Repeating Characters
+
+#### day-52
+1. Flood Fill
+2. Max area of an island
